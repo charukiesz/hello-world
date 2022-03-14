@@ -1,7 +1,7 @@
 # hello-world
 This repository is a place to store ideas, resources and share and discuss with others.
 
-##Code with Copious Comments
+## Code with Copious Comments
 
 When I'm learning to code I include copious comments with longer explanations about the concepts. 
 
